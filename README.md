@@ -1,7 +1,5 @@
 # Diagnosis_of_bone_fracture_detection_using_deep_nerual_networks
 A deep learning project utilizing MobileNet and ManualNet for efficient and accurate bone fracture detection.
-# Diagnosis of Bone Fracture Detection Using Deep Neural Networks
-
 ## Overview
 This repository contains code and resources for diagnosing bone fractures using deep neural networks, specifically Google MobileNet and ManualNet. These models are designed to accurately and efficiently detect bone fractures from medical imaging data.
 
